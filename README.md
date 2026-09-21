@@ -1,4 +1,4 @@
-# ML in AMR Research — A PubMed Literature Analysis
+# ML in AMR Research - A PubMed Literature Analysis
 
 **A computational analysis of how machine learning is being applied 
 to antimicrobial resistance research (AMR), based on 1,133 PubMed papers 
@@ -39,7 +39,7 @@ clear methodological gap.
 
 ### 3. Pathogen Coverage is Skewed
 E. coli dominates at 11.7% of papers, largely due to its role 
-as a model organism. In contrast, *A. baumannii* — a WHO 
+as a model organism. In contrast, *A. baumannii* - a WHO 
 Priority 1 Critical pathogen — appears in only 32 papers (2.8%). 
 Enterococcus, despite rising vancomycin resistance globally, 
 appears in just 18 papers (1.6%).
